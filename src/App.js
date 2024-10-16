@@ -45,7 +45,7 @@ const App = () => {
 
     return (
         <div className="app container d-flex flex-column justify-content-center align-items-center pt-5">
-            <h1 className="text-center my-4">Wifi QR Code Generation</h1>
+            <h1 className="text-center my-4">Wifi QR Code Generator</h1>
             <form onSubmit={handleGenerateQRCode} className="mb-4 w-50">
                 <div className="mb-3">
                     <label htmlFor="wifiName"><strong>Wi-Fi Name</strong></label>
