@@ -1,8 +1,9 @@
+
 ## Wifi QR Code Generator
 
-In the project directory, you can run:
+Create QR Codes for your Wifi 
 
-### `npm start`
+### `Check it online`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[https://wifiqrcode.vercel.app/](https://wifiqrcode.vercel.app/) 
+ 
